@@ -1,0 +1,242 @@
+html,
+div.content {
+    background-color: #161616;
+}
+
+body,
+h1,
+h2,
+h3 {
+    color: #fff !important;
+}
+
+p,
+content,
+lbl,
+ul li,
+.tooltiptext {
+    color: #eee !important;
+}
+
+.content h4 {
+    color: #70a5ca !important;
+}
+
+div.toolbar {
+    border-bottom: #000 1px solid;
+    border-top: none;
+}
+
+div.lang-switcher div.lang-list,
+div.otherversionscontent {
+    border-top: #fff 1px solid;
+}
+
+div.sidebar-menu ul li div.arrow {
+    border: 0;
+    background-color: #fff0;
+}
+
+.nextprev,
+.toolbar,
+div.toolbar div.content {
+    background: #0b2637!important;
+}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background: #72569f !important;
+}
+
+.leafnode.expanded {
+    background-image: none !important;
+}
+
+.mCSB_scrollTools .mCSB_draggerRail {
+    background: #222c37;
+}
+
+.filler {
+    background: #222C37 !important;
+}
+
+.feedbackbox,
+div.lang-switcher div.lang-list,
+.timetoshineitem,
+.feedbackbox {
+    background: #222C37 !important;
+}
+li:before,
+.nl {
+    color: #d7d7d7 !important;
+}
+
+ol {
+    color: #e4e4e4 !important;
+}
+.mCSB_container a,
+.mCSB_container a:link,
+.content-block a,
+.content a:link,
+.tooltip {
+    color: #00b0ff !important;
+}
+.filler a,
+.header a:link,
+.menu {
+    color: #fff !important;
+}
+
+div.message-error {
+    background: #222C37;
+}
+
+.content .section table thead th {
+    background: #222c37;
+}
+
+.tooltip .tooltiptext,
+div.otherversionscontent {
+    background-color: #222C37;
+}
+
+code {
+    color: rgb(251, 231, 7);
+    background-color: #161616;
+}
+
+.codeExampleCS,
+.codeExampleJS {
+    background-color: #212936;
+    color: #fff;
+}
+table.list tr:hover {
+    outline: #46D96F 1px solid;
+}
+
+td,
+td.desc {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff12;
+    color: #fff;
+    background-color: #161616;
+}
+
+
+
+.content .section table thead th, tr {
+    background: #222C37 !important;
+    color: #fff;
+}
+
+div.sidebar-menu ul li div.leafnode {
+    border: 0;
+    position: absolute;
+    background-color: #161616;
+}
+
+pre,
+pre code {
+    color: #fff;
+    background-color: #212936;
+}
+
+.doc-keyword {
+    background: #fff;
+    color: #000;
+}
+div.header div.search-form:before,
+div.header .more .filler:before {
+    background: none;
+}
+
+input[type="text"] {
+    background-color: #000;
+}
+ ::placeholder {
+    color: #D9DDDC;
+}
+
+.navbar-default,
+.footer,
+.containerbody-content hide-when-search {
+    background-color: #fff0;
+    border: 1px solid #000;
+    color: #fff;
+}
+
+.navbar-default a,
+.footer a {
+    color: #fff;
+}
+
+.level1.nav a {
+    color: #c2c0c0;
+}
+
+#wrapper {
+    background-color: #161616;
+}
+
+.sidetoc,
+.sidefilter,
+.naw,
+.toc {
+    background-color: #161616 !important;
+
+}
+.sidetoc,
+.sidefilter {
+    border-width: 2px !important;
+    border-color: #ffffff !important;
+}
+
+.toc .nav li a {
+    color: #00b0ff;
+}
+.toc .nav li a:hover {
+    text-decoration: underline;
+}
+.toc .nav li a:hover,
+.toc .nav > li.active > a,
+.affix > ul > li.active > a,
+.affix > ul > li.active > a:before {
+    color: #00ff21;
+}
+
+.toc-filter {
+    outline: none !important;
+    border-radius: 3px;
+    background: #fff;
+    color: #e4e4e4 !important;
+    padding: 2px;
+    margin: 3px;
+}
+.toc-filter > input {
+    color: #e4e4e4 !important;
+}
+.hljs {
+    color: #fff;
+}
+.hljs-keyword {
+    color: #ff1281;
+}
+
+thead {
+    background-color: #222C37;
+}
+
+.hljs-title
+{
+    color: #4e15ae !important;
+}
+
+.hljs-number
+{
+    color: #00c9ff !important;
+}
+
+.hljs-string
+{
+    color: #ff2424 !important;
+}
